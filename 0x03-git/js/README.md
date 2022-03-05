@@ -1,1 +1,1 @@
-js folder
+JavaScript folder
